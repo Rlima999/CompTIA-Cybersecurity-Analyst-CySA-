@@ -65,7 +65,7 @@ at the boundaries between networks and provide perimeter security. Network
 segmentation uses isolation to separate networks of differing security levels from
 each other.
 
-## Endpoints are made more secure through the use of hardened configurations, patch management, ## Group Policy, and endpoint security software. 
+## Endpoints are made more secure through the use of hardened configurations, patch management, Group Policy, and endpoint security software. 
 
 Hardening configurations includes disabling any unnecessary services
 on the endpoints to reduce their susceptibility to attack, ensuring that secure
